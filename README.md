@@ -1,4 +1,4 @@
-## Off-Platform Project: Gritty Rotation Station (from CodeCademy)
+## Off-Platform Project: Gritty Rotation Station (follow-along Project from CodeCademy)
 
 In this project, I built a simple website with HTML/CSS/JavaScript.
 
